@@ -45,6 +45,14 @@ The investigation showed that `payload_1.ps1` was downloaded and executed succes
 
 ## Screenshots
 
-- Alert Details
-- Endpoint Details
-- VirusTotal Analysis
+### Alert Details
+
+![Alert Details](Screenshots/alert-details.png)
+
+### Log Information
+
+![Endpoint Information](Screenshots/log-details.png)
+
+### Threat Intelligence
+
+![Threat Intelligence](Screenshots/virus-intel.png)
